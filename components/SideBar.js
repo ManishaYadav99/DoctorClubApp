@@ -54,7 +54,7 @@ const SideBar = () => {
               </li>
               {openMenu === 'Support' && (
                 <ul className="ml-4">
-                  <li className="m-2">FAQ's</li>
+                  <li className="m-2">FAQ&apos;s</li>
                   <li className="m-2">Procedure Information</li>
                 </ul>
               )}
